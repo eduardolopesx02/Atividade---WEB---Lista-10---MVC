@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resultado</title>
+</head>
+<body>
+    <h1>Resultado das Operações Matemáticas</h1>
+    <p>Soma: ${soma}</p>
+    <p>Subtração: ${subtracao}</p>
+    <p>Multiplicação: ${multiplicacao}</p>
+    <p>Divisão: ${divisao}</p>
+    <p>Resto da Divisão Inteira: ${resto}</p>
+</body>
+</html>
